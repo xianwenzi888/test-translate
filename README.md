@@ -1,18 +1,15 @@
-# 小文xi介绍
+# 关于当前仓库
+本仓库主要用于发布欧路翻译扩展插件的[Release](https://github.com/xianwenzi888/test-fanyi/releases)的版本以及使用[Github Issues](https://github.com/xianwenzi888/test-fanyi/issues)收集和跟进用户反馈。<br>
+### 🌟 欧路翻译插件 - 强大而实用的翻译工具 🚀
 
-本仓库用于发布沉浸式双语网页翻译扩展的 [Release 版本](https://github.com/immersive-translate/immersive-translate/releases)以及使用 [Github Issues](https://github.com/immersive-translate/immersive-translate/issues)收集和跟进用户反馈。
+**欧路翻译插件**是一款高效、智能的浏览器插件，专为提升阅读和翻译体验而设计。不论是学习外语、阅读外文文献，还是处理工作任务，这款插件都能帮您轻松应对语言障碍。以下是它的主要功能及亮点介绍！ 🎉
 
+---
 
-[沉浸式翻译](https://immersivetranslate.com/) 并非开源软件，这个仓库并 **不包含** 沉浸式翻译的源代码。旧版的[沉浸式翻译开源项目](https://github.com/immersive-translate/old-immersive-translate)已于 2023 年 1 月 17 日被归档。
-
-
-[**点此安装沉浸式翻译**](https://immersivetranslate.com/docs/installation/) 或 [查看文档](https://immersivetranslate.com/docs/)
-
-
-# 🌟 欧路词典功能详解 🚀
+## 🌟 欧路翻译插件功能详解 🚀  
 
 欧路词典是一款功能强大且高度定制化的翻译与学习工具，它不仅能满足日常翻译需求，还能在学术、工作等多场景下助您一臂之力！下面就让我们用图文并茂的方式，来详细了解欧路词典的亮点功能吧！💡
-
+![](./images/111.png)
 ---
 
 ## 🎯 功能亮点
@@ -107,14 +104,4 @@
 欧路词典不仅是一款强大的翻译工具，更是一位语言学习的全能助手！🌟  
 从精准翻译到深度学习，覆盖了日常使用到专业需求的方方面面，为用户提供了前所未有的便利！🎊  
 快来试试吧，一起开启你的语言学习之旅！✈️
-
----
-
-### 图片展示说明
-
-1. **图片路径**：图片均存放在项目的 `images` 文件夹中。
-2. **如何上传**：将所有图片重命名为 `image1.png` 至 `image9.png` 并存放到 `images` 文件夹。
-3. **预览**：将该 Markdown 文件保存为 `README.md` 文件，并上传到 GitHub 仓库中，即可在 GitHub 仓库首页查看完整展示效果。
-
-
 
